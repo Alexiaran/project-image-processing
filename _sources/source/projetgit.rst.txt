@@ -1,0 +1,10 @@
+projetgit package
+=================
+
+Module contents
+---------------
+
+.. automodule:: projetgit
+   :members:
+   :undoc-members:
+   :show-inheritance:
